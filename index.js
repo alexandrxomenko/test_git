@@ -1,4 +1,1 @@
-iuhjhkjhkjhkjkjhhuhuijh
-iouhu
-asdasdasada
-asadasdasdasd
+const ALEX = 5;
